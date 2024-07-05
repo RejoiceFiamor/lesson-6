@@ -1,7 +1,22 @@
-h1{
+/* h1{
     font-size: 40px;
     background-color: aquamarine;
     border-radius: 6px;
     text-align: center;
     color: rgb(213, 42, 42);
+} */
+.paragraph{
+    width: 70%;
+    margin: 0 auto;
+
 }
+p{
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    font-size: 40px;
+    padding: 7px;
+    border: 7px solid black;
+
+}
+#pfour{ display: none;}
